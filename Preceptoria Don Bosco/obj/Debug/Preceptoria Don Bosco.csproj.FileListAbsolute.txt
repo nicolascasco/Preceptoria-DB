@@ -1,0 +1,40 @@
+F:\DON BOSCO\Preceptoria Don Bosco - Backup\bin\Debug\Preceptoria Don Bosco.exe.config
+F:\DON BOSCO\Preceptoria Don Bosco - Backup\obj\Debug\Preceptoria Don Bosco.exe
+F:\DON BOSCO\Preceptoria Don Bosco - Backup\obj\Debug\Preceptoria Don Bosco.pdb
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\Preceptoria.mdf
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\Preceptoria_log.ldf
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\Preceptoria Don Bosco.exe.config
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\Preceptoria Don Bosco.exe
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\Preceptoria Don Bosco.pdb
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.Alumno.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.AlumnosUserControl.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.AlumnoUserControl.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.Curso.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.CursosUserControl.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.Falta.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.informacionAlumno.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.Main.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.Observacion.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.Properties.Resources.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.Query.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria_Don_Bosco.testE.resources
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria Don Bosco.csproj.GenerateResource.Cache
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\RdlCompile.cache
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria Don Bosco.exe
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria Don Bosco.pdb
+C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria Don Bosco.csprojResolveAssemblyReference.cache
