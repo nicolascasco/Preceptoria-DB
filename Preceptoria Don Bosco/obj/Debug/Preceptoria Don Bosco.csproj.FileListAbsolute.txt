@@ -37,4 +37,3 @@ C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\RdlCompile
 C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\RdlCompile.compiled
 C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria Don Bosco.exe
 C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria Don Bosco.pdb
-C:\Users\Administrador.000\Desktop\PC\Preceptoria Don Bosco\obj\Debug\Preceptoria Don Bosco.csprojResolveAssemblyReference.cache

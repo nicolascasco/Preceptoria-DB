@@ -29,11 +29,10 @@ namespace Preceptoria_Don_Bosco
         {
             connectionString = ConfigurationManager.ConnectionStrings["Preceptoria_Don_Bosco.Properties.Settings.PreceptoriaConnectionString"].ConnectionString;
             llenar();
-            //this.reportViewer1.RefreshReport();//no 
         }
 
         private void llenar()
-        {
+        {  
             #region estudio
             query = "SELECT * FROM Estudio";
             EstudioDS estudio = new EstudioDS();
